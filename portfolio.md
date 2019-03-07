@@ -1,6 +1,6 @@
 # README
 
-## content
+## Content
 + About
 + Skill
 + Works
@@ -53,8 +53,10 @@
 + プログラミング
 + 音楽
 + 読書
++ 特撮
++ Python
 
 ## Contact
-+ Twitter @ihcamonoihS
-+ Github Umisyo
++ Twittter @ihcamonoihS
++ Github @Umisyo
 + Mail kusunokisouta@gmal.com
